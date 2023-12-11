@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="121px" viewBox="0 0 120 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>4.0_business/icn_multi_location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-231.000000, -727.000000)">
+            <g id="requirnment_box-copy-2" transform="translate(231.000000, 727.333389)">
+                <g id="Group-4">
+                    <g id="icn/120x120/icn_120x120_multi_stop">
+                        <g id="Group-5">
+                            <rect id="Rectangle" x="0" y="0" width="120" height="120"></rect>
+                            <g id="Group-4">
+                                <rect id="Rectangle" x="0" y="0" width="120" height="120"></rect>
+                                <g id="Group-3" transform="translate(12.625631, 7.500000)" stroke="#605B5D" stroke-width="3.5">
+                                    <g id="Group-2">
+                                        <ellipse id="Oval" fill="#FFFFFF" cx="18.3118687" cy="41.25" rx="16.5618687" ry="8.68476527"></ellipse>
+                                        <g id="Group" transform="translate(2.436869, 0.000000)">
+                                            <path d="M16.4087148,40.1269261 C26.1310365,30.0466724 30.9921973,21.928591 30.9921973,15.7726821 C30.9921973,6.31369347 24.1406974,0 15.6889441,0 C7.23719069,0 0.385690845,6.31369347 0.385690845,15.7726821 C0.385690845,21.9285877 5.24684643,30.0466636 14.9691576,40.1269098 L14.9691408,40.126926 C15.3525526,40.5244534 15.9856289,40.5358964 16.3831563,40.1524846 C16.3918291,40.1441198 16.40035,40.1355989 16.4087148,40.1269261 Z" id="Oval-Copy" fill="#FFFFFF" stroke-linejoin="round"></path>
+                                            <circle id="Oval" fill="#FF671D" cx="15.6889441" cy="15.5545391" r="7.73072196"></circle>
+                                        </g>
+                                    </g>
+                                    <ellipse id="Oval-Copy-2" fill="#FFFFFF" cx="83.8388646" cy="60.5484744" rx="16.5618687" ry="8.68476527"></ellipse>
+                                    <line x1="34.2859036" y1="43.2107815" x2="68.1882118" y2="55.4275566" id="Path-24" stroke-linecap="round"></line>
+                                    <line x1="77.7523316" y1="68.4913544" x2="47.2571812" y2="86.4084645" id="Path-24-Copy"></line>
+                                    <ellipse id="Oval-Copy-3" fill="#FFFFFF" cx="42.4362374" cy="90.142178" rx="16.5618687" ry="8.68476527"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

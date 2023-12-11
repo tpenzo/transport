@@ -1,0 +1,22 @@
+.confirmed {
+    color: #007bff;
+}
+
+.pickup {
+    color: #ff7f0e;
+}
+
+.transport {
+    color: #2ca02c;
+}
+
+.returnes {
+    color: #dc3545;
+}
+
+.completed {
+    color: #28a745;
+}
+.cancle {
+    color: red;
+}
